@@ -9,6 +9,10 @@ An official code of [UGCL](https://github.com/twko05/UGCL/files/11755605/UGCL.pd
 
 The codes are referenced from [MagNet](https://github.com/matthew-hirn/magnet) and [SDGNN](https://github.com/huangjunjie-cs/SiGAT/tree/master)
 # Run
+*--graph* gets structure perturbation ratio
+
+*--laplacian* gets whether apply Laplacian perturbation
+
 ```Bash
-python train.py --dataset BitCoinAlpha
+python train.py --dataset BitCoinAlpha --graph -0.1 --laplacian 1
 ```
