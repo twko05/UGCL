@@ -14,5 +14,5 @@ The codes are referenced from [MagNet](https://github.com/matthew-hirn/magnet) a
 *--laplacian* gets whether apply Laplacian perturbation
 
 ```Bash
-python train.py --dataset BitCoinAlpha --graph -0.1 --laplacian 1
+python train.py --dataset BitCoinAlpha --graph 0.1 --laplacian 1
 ```
