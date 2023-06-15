@@ -1,5 +1,5 @@
-# UGCL 
-Universal Graph Contrastive Learning with Novel Laplacian Perturbation
+# Universal Graph Contrastive Learning with Novel Laplacian Perturbation [UAI2023] 
+Model Overview
 ![ugcl_fig](https://github.com/twko05/UGCL/assets/80378163/c90b05b9-2780-467a-aae5-2a48f4305428)
 
 
